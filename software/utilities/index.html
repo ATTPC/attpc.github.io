@@ -77,6 +77,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#software-utilities" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -378,6 +383,8 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -645,6 +652,8 @@
   
   
   
+    
+  
   
 </nav>
                   </div>
@@ -662,9 +671,15 @@
   
 
 
-  <h1>Utilities</h1>
-
-
+<h1 id="software-utilities">Software Utilities</h1>
+<p>These are tools which are supplementary to the data acqusition and the analysis.</p>
+<ul>
+<li><a href="https://github.com/ATTPC/spyral_notebooks">spyral_notebooks</a> This is a repository of Jupyter notebooks that can be used to examine the Spyral analysis pipeline step by step. It is useful for tuning the analysis parameters.</li>
+<li><a href="https://github.com/ATTPC/attpc_polaris_template">attpc_polaris_template</a> This is a template repository for using Spyral at the <a href="https://www.alcf.anl.gov/polaris">Polaris</a> cluster at the Argonne Leadership Computing Facility at Argonne National Laboratory.</li>
+<li><a href="https://attpc.github.io/spyral-utils">spyral-utils</a> spyral-utils is a Python package with useful tools that were originally part of Spyral, but were separated into their own package because they were so darn useful. Includes things like nuclear masses, histogramming, gating, etc. The repo can be found <a href="https://github.com/ATTPC/spyral-utils">here</a>.</li>
+<li><a href="https://github.com/ATTPC/electron_correction">electron_correction</a> A C++ application for calculating Garfield calculations of the electron drift corrections due to the electric field distortion of the Active Target Time Projection Chamber (AT-TPC). electron_correction is a cli application for generating correction files to be used in AT-TPC analysis.</li>
+<li><a href="https://github.com/ATTPC/event_toolkit">event_toolkit</a> This repository contains utilities for handling issues with raw AT-TPC data. Currently, it contains a script for correcting mismatched event numbers between the FRIBDAQ and GETDAQ data and correcting the HDF5 files in place. But more utilities will be added as need arises!</li>
+</ul>
 
 
 
