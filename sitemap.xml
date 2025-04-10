@@ -2,62 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/CONTRIBUTING/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/contact/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/contributors/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/faq/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/publications/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/attpc/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/auxiliary/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/get/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/network/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/software/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/software/acquisition/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/software/analysis/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/software/polaris/</loc>
+         <lastmod>2025-04-10</lastmod>
     </url>
     <url>
          <loc>https://example.com/software/utilities/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-04-10</lastmod>
     </url>
 </urlset>
